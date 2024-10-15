@@ -1,0 +1,64 @@
+<customrecordtype scriptid="customrecord_product_feature_en">
+  <accesstype>CUSTRECORDENTRYPERM</accesstype>
+  <allowattachments>T</allowattachments>
+  <allowinlinedeleting>F</allowinlinedeleting>
+  <allowinlinedetaching>T</allowinlinedetaching>
+  <allowinlineediting>F</allowinlineediting>
+  <allowmobileaccess>F</allowmobileaccess>
+  <allownumberingoverride>F</allownumberingoverride>
+  <allowquickadd>F</allowquickadd>
+  <allowquicksearch>F</allowquicksearch>
+  <allowuiaccess>T</allowuiaccess>
+  <description>Describes various feature to highlight about a particular product.</description>
+  <enabledle>T</enabledle>
+  <enablekeywords>T</enablekeywords>
+  <enablemailmerge>F</enablemailmerge>
+  <enablenametranslation>F</enablenametranslation>
+  <enablenumbering>F</enablenumbering>
+  <enableoptimisticlocking>T</enableoptimisticlocking>
+  <enablesystemnotes>T</enablesystemnotes>
+  <hierarchical>F</hierarchical>
+  <iconbuiltin>T</iconbuiltin>
+  <includeinsearchmenu>T</includeinsearchmenu>
+  <includename>T</includename>
+  <isinactive>F</isinactive>
+  <isordered>F</isordered>
+  <recordname>Product Feature (English)</recordname>
+  <showcreationdate>F</showcreationdate>
+  <showcreationdateonlist>F</showcreationdateonlist>
+  <showid>F</showid>
+  <showlastmodified>F</showlastmodified>
+  <showlastmodifiedonlist>F</showlastmodifiedonlist>
+  <shownotes>T</shownotes>
+  <showowner>F</showowner>
+  <showownerallowchange>F</showownerallowchange>
+  <showowneronlist>F</showowneronlist>
+  <customrecordcustomfields>
+    <customrecordcustomfield scriptid="custrecord_product_feature_description_e">
+      <accesslevel>2</accesslevel>
+      <allowquickadd>F</allowquickadd>
+      <applyformatting>F</applyformatting>
+      <checkspelling>F</checkspelling>
+      <defaultchecked>F</defaultchecked>
+      <displaytype>NORMAL</displaytype>
+      <encryptatrest>F</encryptatrest>
+      <fieldtype>TEXT</fieldtype>
+      <globalsearch>F</globalsearch>
+      <help>A short description of how this feature should be displayed on the website</help>
+      <isformula>F</isformula>
+      <ismandatory>F</ismandatory>
+      <isparent>F</isparent>
+      <label>Description</label>
+      <rolerestrict>F</rolerestrict>
+      <searchlevel>2</searchlevel>
+      <showinlist>T</showinlist>
+      <storevalue>T</storevalue>
+    </customrecordcustomfield>
+  </customrecordcustomfields>
+  <links>
+    <link>
+      <linkcategory>BASICLISTSCUSTOM</linkcategory>
+      <linktasktype>LIST</linktasktype>
+    </link>
+  </links>
+</customrecordtype>

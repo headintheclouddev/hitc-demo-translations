@@ -1,0 +1,15 @@
+<translationcollection scriptid="custcollection_hitc_demo">
+  <defaultlanguage>en-US</defaultlanguage>
+  <description>Translations for November 2024 YouTube video</description>
+  <name>HITC Demo Translation Set</name>
+  <strings>
+    <string scriptid="product_feature">
+      <defaulttranslation>Product Feature</defaulttranslation>
+      <description>This is the name of the Product Feature record type</description>
+    </string>
+    <string scriptid="record_out_of_date">
+      <defaulttranslation>Record is out of date</defaulttranslation>
+      <description>Title of banner message shown to users when they need to update the record</description>
+    </string>
+  </strings>
+</translationcollection>

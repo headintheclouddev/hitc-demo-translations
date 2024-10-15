@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<xliff xmlns:ns="netsuite" xmlns:ns3="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+    <file original="netsuite-database" source-language="en-US" datatype="database" target-language="es-ES">
+        <body>
+            <group ns:collection="custcollection_hitc_demo">
+                <trans-unit id="PRODUCT_FEATURE">
+                    <source>Product Feature</source>
+                    <target>Característica del producto</target>
+                </trans-unit>
+                <trans-unit id="RECORD_OUT_OF_DATE">
+                    <source>Record is out of date</source>
+                    <target>El registro está desactualizado</target>
+                </trans-unit>
+            </group>
+        </body>
+    </file>
+</xliff>
