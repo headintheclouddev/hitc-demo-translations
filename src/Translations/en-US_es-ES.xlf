@@ -11,6 +11,10 @@
                     <source>Record is out of date</source>
                     <target>El registro está desactualizado</target>
                 </trans-unit>
+                <trans-unit id="PLEASE_UPDATE">
+                    <source>Please update the content of this product feature description</source>
+                    <target>Actualice el contenido de la descripción de la característica de este producto</target>
+                </trans-unit>
             </group>
         </body>
     </file>

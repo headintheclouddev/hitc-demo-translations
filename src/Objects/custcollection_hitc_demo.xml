@@ -11,5 +11,9 @@
       <defaulttranslation>Record is out of date</defaulttranslation>
       <description>Title of banner message shown to users when they need to update the record</description>
     </string>
+    <string scriptid="please_update">
+      <defaulttranslation>Please update the content of this product feature description</defaulttranslation>
+      <description>Banner message content for when users need to update the product feature record.</description>
+    </string>
   </strings>
 </translationcollection>
