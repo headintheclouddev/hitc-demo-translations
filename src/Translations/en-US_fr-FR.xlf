@@ -12,8 +12,8 @@
                     <target>L'enregistrement est obsolète</target>
                 </trans-unit>
                 <trans-unit id="PLEASE_UPDATE">
-                    <source>Please update the content of this product feature description</source>
-                    <target>Veuillez mettre à jour le contenu de cette description des fonctionnalités du produit</target>
+                    <source>{1}, please update the content of this product feature description</source>
+                    <target>{1}, veuillez mettre à jour le contenu de la description des fonctionnalités de ce produit</target>
                 </trans-unit>
             </group>
         </body>
